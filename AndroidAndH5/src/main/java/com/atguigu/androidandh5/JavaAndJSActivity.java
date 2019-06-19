@@ -17,6 +17,7 @@ import android.widget.Toast;
  * 微信：yangguangfu520
  * QQ号：541433511
  * 作用：java和js互调
+ * 修改: by rosaspspring
  */
 public class JavaAndJSActivity extends Activity implements View.OnClickListener {
     private EditText etNumber;
